@@ -18,7 +18,7 @@
 > **社区维护声明**：本仓库是
 > [TheBlindM/codex-deepseek-router](https://github.com/TheBlindM/codex-deepseek-router)
 > 的独立社区维护分支，保留原项目历史与版权声明；它不是原项目的官方续作，
-> 与原作者、OpenAI 或 DeepSeek 均无隶属或背书关系。原始代码及适配的上游代码
+> 与原作者无隶属或背书关系。原始代码及适配的上游代码
 > 继续依照 MIT 许可证提供，本分支中的修改同样以 MIT 发布。完整版权、上游来源
 > 与商标说明见 [NOTICE.md](NOTICE.md) 和 [LICENSE](LICENSE)。
 
