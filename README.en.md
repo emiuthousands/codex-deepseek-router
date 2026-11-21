@@ -17,6 +17,16 @@
 > Desktop-bundled `direct_codex` transport on 0.149+, then verifies and
 > integrates the result itself.
 
+> **Community fork notice:** This repository is an independently maintained
+> community fork of
+> [TheBlindM/codex-deepseek-router](https://github.com/TheBlindM/codex-deepseek-router).
+> It retains the original project history and copyright notices. It is not an
+> official continuation and is not affiliated with or endorsed by the original
+> project maintainers, OpenAI, or DeepSeek. The original and adapted upstream
+> code remains available under the MIT License, and changes in this fork are
+> also released under the MIT License. See [NOTICE.md](NOTICE.md) and
+> [LICENSE](LICENSE) for the complete copyright, source, and trademark notices.
+
 ## The outcome first
 
 | Parent stays intact | Two specialized agents | Evidence, not self-report |
